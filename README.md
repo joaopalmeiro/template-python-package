@@ -7,6 +7,7 @@ Opinionated Python template for new packages.
 
 - [Source code](https://github.com/joaopalmeiro/template-python-package)
 - [PyPI package](https://pypi.org/project/template-python-package/)
+- [Snyk Advisor](https://snyk.io/advisor/python/template-python-package)
 
 ## Getting Started
 
