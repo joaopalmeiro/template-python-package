@@ -33,8 +33,9 @@ npx degit github:joaopalmeiro/template-python-package --force
 9. Update the `Source code` link at the top to the package repository link (if necessary).
 10. Change `GitHub` in the [`Deployment`](#deployment) section to `GitLab` or `Codeberg` and update the link to the corresponding Tags page (if necessary).
 11. Update the `Issues` and `Source` fields in the [pyproject.toml](pyproject.toml) file with their respective repository-related links (if necessary).
-12. Delete the [TEMPLATE.md](TEMPLATE.md) file.
-13. Delete the [`Getting Started`](#getting-started) section.
+12. Remove `hatch-demo/` from the [.gitignore](.gitignore) file.
+13. Delete the [TEMPLATE.md](TEMPLATE.md) file.
+14. Delete the [`Getting Started`](#getting-started) section.
 
 ## Development
 
