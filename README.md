@@ -81,6 +81,10 @@ hatch run lint
 hatch run format
 ```
 
+```bash
+hatch project metadata
+```
+
 ## Deployment
 
 ```bash
