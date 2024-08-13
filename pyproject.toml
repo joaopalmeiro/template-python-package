@@ -38,6 +38,7 @@ path = "src/template_python_package/__init__.py"
 
 [tool.hatch.envs.qa]
 detached = false
+installer = "uv"
 dependencies = ["ruff==0.5.6", "mypy==1.11.1"]
 
 [tool.hatch.envs.qa.scripts]

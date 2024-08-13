@@ -3,6 +3,15 @@
 - https://github.com/joaopalmeiro/template-python-cli
 - Hatch:
   - https://hatch.pypa.io/1.9/config/build/#packages
+  - https://pypi.org/project/hatch/
+  - https://hatch.pypa.io/dev/history/hatch/
+  - https://github.com/ofek/pyapp
+  - https://hatch.pypa.io/dev/config/internal/testing/
+  - https://hatch.pypa.io/dev/config/environment/overview/#type
+  - https://hatch.pypa.io/dev/plugins/environment/virtual/
+  - https://hatch.pypa.io/dev/blog/2024/05/02/hatch-v1100/#uv
+  - https://hatch.pypa.io/dev/how-to/environment/select-installer/
+  - `installer = "uv"` or `installer = "pip"`
 - https://www.pythonpapers.com/p/how-to-publish-a-python-package-to
 - https://dev.to/astrojuanlu/python-packaging-is-great-now-uv-is-all-you-need-4i2d
 - mypy:
@@ -21,4 +30,12 @@
 
 ```bash
 hatch new --interactive hatch-demo
+```
+
+```bash
+hatch env show --internal
+```
+
+```bash
+hatch env show --json
 ```
