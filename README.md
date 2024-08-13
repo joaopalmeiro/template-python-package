@@ -74,11 +74,11 @@ hatch dep show table
 ```
 
 ```bash
-hatch run lint
+hatch run qa:lint
 ```
 
 ```bash
-hatch run format
+hatch run qa:format
 ```
 
 ```bash
