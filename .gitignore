@@ -6,7 +6,7 @@ __pycache__/
 # https://hatch.pypa.io/latest/config/build/#output-directory
 dist/
 
-# https://github.com/python/mypy/blob/v1.8.0/docs/source/config_file.rst#incremental-mode
+# https://github.com/python/mypy/blob/v1.11.1/docs/source/config_file.rst#incremental-mode
 .mypy_cache/
 
 hatch-demo/
