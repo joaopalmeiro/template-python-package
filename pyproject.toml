@@ -35,7 +35,6 @@ Source = "https://github.com/joaopalmeiro/template-python-package"
 [tool.hatch.version]
 path = "src/template_python_package/__init__.py"
 
-
 [tool.hatch.envs.qa]
 detached = false
 installer = "uv"
