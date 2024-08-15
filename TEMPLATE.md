@@ -12,6 +12,7 @@
   - https://hatch.pypa.io/dev/blog/2024/05/02/hatch-v1100/#uv
   - https://hatch.pypa.io/dev/how-to/environment/select-installer/
   - `installer = "uv"` or `installer = "pip"`
+  - https://hatch.pypa.io/latest/config/build/#output-directory
 - https://www.pythonpapers.com/p/how-to-publish-a-python-package-to
 - https://dev.to/astrojuanlu/python-packaging-is-great-now-uv-is-all-you-need-4i2d
 - mypy:
